@@ -1,10 +1,11 @@
-# Proposal Title
+# Deep Reinforcement Learning for Optimal Experimental Design in Biology
 
 A proposal by project instigator 1, project instigator 2, etc.
 
 ## Abstract
 
-Provide brief outline motivating the project. How would it positively impact biological research? What is the hypothesis behind it? No need to discuss datasets or models  yet, we will do that later. Focus on the grand picture and \textit{why} the community should care about it.
+
+The field of optimal experimental design uses mathematical techniques to determine experiments that are maximally informative from a given experimental setup. Here we apply a technique from artificial intelligence—reinforcement learning—to the optimal experimental design task of maximizing confidence in estimates of model parameter values. We show that a reinforcement learning approach performs favourably in comparison with a one-step ahead optimisation algorithm and a model predictive controller for the inference of bacterial growth parameters in a simulated chemostat. Further, we demonstrate the ability of reinforcement learning to train over a distribution of parameters, indicating that this approach is robust to parametric uncertainty.
 
 ## Introduction and Prior Work
 
