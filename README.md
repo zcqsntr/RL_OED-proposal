@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Optimal Experimental Design in Biology
 
-A proposal by project instigator 1, project instigator 2, etc.
+A proposal by Neythen Treloar etc.
 
 ## Abstract
 
