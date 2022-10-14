@@ -44,7 +44,7 @@ How is the project expected to positively impact biological research at large?
 
 ## Reproducibility
 
-What steps are going to be taken to ensure the project's reproducibility? Will data processing scripts be released? What about training logs?
+All code can be published publically on GitHub, with working examples to run on various models. 
 
 ## Failure Case
 
@@ -52,7 +52,8 @@ If our findings are unsatisfactory, do we have an exit plan? Do we have delivera
 
 ## Preliminary Findings
 
-If applicable, mention any preliminary findings (e.g. experiments you have run on your own or heard about) that support the project's importance.
+We had written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract), currently on bioArxiv, in review at PLOS computational biology which demonstrates the effectiveness of the method on simple models. Based on this paper we were contacted by Nicolas Cruz group to initiate a collaboration to implement our method in their lab. 
+
 
 ## Next Steps
 
@@ -60,4 +61,4 @@ If the project is successfully completed, are there any obvious next steps?
 
 ## Known contributors
 
-Please list community members that you know are interested in contributing. It is best if a project proposal already has an associated team capable of going ahead with the project by themselves, but it is not necessary.
+Neythen Treloar, Postdoctoral Research Fellow, University College London
