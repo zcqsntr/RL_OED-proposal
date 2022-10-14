@@ -36,7 +36,7 @@ What kinds of resources (e.g. GPU hours, RAM, storage) are needed to complete th
 
 ### Timeline
 
-What is a (rough) timeline for this project?
+6 months to 1 year
 
 ## Broader Impact
 
