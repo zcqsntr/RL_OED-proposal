@@ -22,10 +22,7 @@ The current state of the work is that the method has been demonstrated on a coup
 
 ### Paper
 
-Can the project be turned into a paper? What does the evaluation process for such a paper look like? What conferences are we targeting? Can we release a blog post as well as the paper?
-
-
-There is a clear route to publication and the wide ranging interest of the scientific community in this method has already been proven (the work has been accepted and presented at two conferences across different disciplines (AI4synbio and the mediterrain conference on control) and is under review at PLOS Computational Biology). 
+There is a clear route to publication and the wide ranging interest of the scientific community in this method has already been proven (the work has been accepted and presented at two conferences across different disciplines (AI 4 synbio and the Mediterrain Conference on Control and Automation) and is under review at PLOS Computational Biology). 
 
 ### Software Package
 
