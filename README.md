@@ -9,7 +9,11 @@ The field of optimal experimental design uses mathematical techniques to determi
 
 ## Introduction and Prior Work
 
-Provide a short (preferably beginner friendly) introduction to the project and a brief outline of the literature most relevant to it. How does the project fit into this context?
+
+Biological systems are often complex and typically exhibit non-linear behaviour, making accurate model parametrisation difficult. Optimal experimental design tools help address this problem by identifying experiments that are predicted to provide maximally informative data for parameter inference. In [previous work](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract) we used reinforcement learning to determine such experiments. Our simulation studies show that this approach allows uncertainty in model parameterisation to be directly incorporated into the search for optimal experiments, opening a practical avenue for training an experimental controller. 
+The current state of the work is that the method has been demonstrated on a couple of relatively simple models and there are some compelling reasons to use RL over more traditional optimisation based approaches, mainly fast online decision making and the ability to easily incorporate parameter/model uncertainty. We should also be working with Nicolas Cruz at Technische Universität Berlin to implement this into their high throughput lab setup in the near future. They read our preprint and became very interested, primarily as they are finding themselves limited by the slow speed of the optimisation approaches.
+
+A key future direction for this work will be investigating the scale up to more complex models and more complex OED tasks such as simultaneous model discrimination and parameter inference, I think this is where OpenBioML could really help. Basically we would want to find out how far we can scale up the method and what would be the best ways to scale up the RL so that this is possible. The method has already been developed and demonstrated so the main focus of this would be engineering the RL up to a larger scale in the best way. I think this is a very well defined problem, already with compelling use cases and a clear path to real life implementation, so I think it could be a relatively 'easy win' for OpenBioML
 
 ## Deliverables
 
