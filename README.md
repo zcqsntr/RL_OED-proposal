@@ -17,16 +17,16 @@ A key future direction for this work will be investigating the scale up to more 
 
 ## Deliverables
 
-### Software Package
-
-The work could be released as a software package with the aim to make the implementation of the OED method accessible for use by non-experts. With a collaboration that has already been initiated we can test the package in a high throughput biological laboratory. 
-
 ### Paper
 
 Can the project be turned into a paper? What does the evaluation process for such a paper look like? What conferences are we targeting? Can we release a blog post as well as the paper?
 
 
 There is a clear route to publication and the wide ranging interest of the scientific community in this method has already been proven (the work has been accepted and presented at two conferences across different disciplines (AI4synbio and the mediterrain conference on control)). 
+
+### Software Package
+
+The work could be released as a software package with the aim to make the implementation of the OED method accessible for use by non-experts. With a collaboration that has already been initiated we can test the package in a high throughput biological laboratory. 
 
 ## Resources
 
