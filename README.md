@@ -17,24 +17,16 @@ A key future direction for this work will be investigating the scale up to more 
 
 ## Deliverables
 
-What do we plan to provide the broader community with upon the completion of the project? Datasets? Models? APIs? Every deliverable should preferably have its own subsection with its associated potential impact, although it is not required.
+### Software Package
 
-### Datasets
-
-If applicable, how large is the dataset that the project aims to produce? How difficult is producing such a dataset expected to be? What kind of resources are needed? What license will the dataset be licensed under? MIT is preferred but not required.
-
-
-### Models
-
-If applicable, does the project aim to release more than one model? What would be the input modality? What about the output modality? How large are the models that the project aims to release? Are there other important differences between the models to be released? If the models are very different, consider writing a short subsection for each model type.
-
-### APIs
-
-If applicable, what kind of API does the project aim to release? Are there any existing APIs that it could be integrated into? What kind of documentation could the project provide?
+The work could be released as a software package with the aim to make the implementation of the OED method accessible for use by non-experts. With a collaboration that has already been initiated we can test the package in a high throughput biological laboratory. 
 
 ### Paper
 
 Can the project be turned into a paper? What does the evaluation process for such a paper look like? What conferences are we targeting? Can we release a blog post as well as the paper?
+
+
+There is a clear route to publication and the wide ranging interest of the scientific community in this method has already been proven (the work has been accepted and presented at two conferences across different disciplines (AI4synbio and the mediterrain conference on control)). 
 
 ## Resources
 
