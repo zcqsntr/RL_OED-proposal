@@ -54,7 +54,7 @@ As the effectiveness of the method has already been demonstrated. The failure ca
 
 ## Preliminary Findings
 
-We had written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract), currently on bioArxiv, in review at PLOS computational biology which demonstrates the effectiveness of the method on simple models. Based on this paper we were contacted by Nicolas Cruz group to initiate a collaboration to implement our method in their lab. 
+We had written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract), currently on bioArxiv, in review at PLOS computational biology which demonstrates the effectiveness of the method on simple models. 
 
 
 ## Next Steps
