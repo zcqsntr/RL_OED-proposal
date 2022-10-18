@@ -50,7 +50,7 @@ All code can be published publically on GitHub, with working examples to run on 
 
 If our findings are unsatisfactory, do we have an exit plan? Do we have deliverables along the way that we can still provide the community with?
 
-The failure case for a group that would want to use this method is that the training time becomes prohibitive for them to use it on models that are relevant to them. We can still demonstrate the method and develop a software package, and show that using the hardware we have available we can perform OED on complex biological models. And the community can use it for models of a scale that their hardware would allow. 
+As the effectiveness of the method has already been demonstrated. The failure case now is that the training time becomes prohibitive to use it on models that are relevant to the user with the hardware that they have available. We can still demonstrate the method and show that using the hardware we have available we can perform OED on complex biological models. The community can use it for models of a scale that their hardware would allow. 
 
 ## Preliminary Findings
 
