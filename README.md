@@ -15,7 +15,7 @@ Here we propose to undertake a key future direction for this work; investigating
 - Our paper can be found [here](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract). See this for a thorough introduction with lots of references. 
 
 Biological systems are often complex and typically exhibit non-linear behaviour, making accurate model parametrisation difficult. Optimal experimental design tools help address this problem by identifying experiments that are predicted to provide maximally informative data for parameter inference. In this work we used reinforcement learning to determine such experiments. Our simulation studies show that this approach allows uncertainty in model parameterisation to be directly incorporated into the search for optimal experiments, opening a practical avenue for training an experimental controller. 
-The current state of the work is that the method has been demonstrated on a couple of relatively simple models and there are some compelling reasons to use RL over more traditional optimisation based approaches, mainly fast online decision making and the ability to easily incorporate parameter/model uncertainty. This work caught the interest of Nicolas Cruz at Technische Universität Berlin and we have instigated a collaboration to implement this into their high throughput lab setup in the near future. 
+The current state of the work is that the method has been demonstrated on a couple of relatively simple models and there are some compelling reasons to use RL over more traditional optimisation based approaches, mainly fast online decision making and the ability to easily incorporate parameter/model uncertainty. 
 
 
 ## Deliverables
