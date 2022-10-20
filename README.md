@@ -28,6 +28,16 @@ There is a clear route to publication and the wide ranging interest of the scien
 
 The work could be released as a software package with the aim to make the implementation of the OED method accessible for use by non-experts. With a collaboration that has already been initiated we can test the package in a high throughput biological laboratory. 
 
+
+## Deliverables
+### Tasks and potential roadmap
+- Decide on the models we will use. These should be large scale, biologically relevant and chosen so that a range of biology is represented
+- Determine if the current method of calculating optimality scales well and if required optimise this
+- Determine the best way to scale up the RL and optimise
+- Decide on the comparisons we will make to validate the method. These should include effectiveness, in terms of experimental optimality and parameter inference, and time taken to make decisions online
+- Results/paper write up and publication
+- Publish package on PyPI
+
 ## Resources
 
 ### Requirements
