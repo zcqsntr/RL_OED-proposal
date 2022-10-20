@@ -40,7 +40,7 @@ What kinds of resources (e.g. GPU hours, RAM, storage) are needed to complete th
 
 ## Broader Impact
 
-Using reinforcment leaning for optimal experimental design has compelling advantages of traditional approaches, mainly fast online decision making and the ability to easily incorporate parameter/model uncertainty. Indeed we have already been contacted by another group to implement our method in their lab, because they are struggling with the slow speed of optimisation base approaches. The extension of the method to large scale biological models and the development of an easy to use package would have wide spread impact on the design of optimal experiments in biology. 
+Using reinforcment leaning for optimal experimental design has compelling advantages of traditional approaches, mainly fast online decision making and the ability to easily incorporate parameter/model uncertainty. Indeed we have already been contacted by another group to implement our method in their lab, because they are struggling with the slow speed of optimisation base approaches. The extension of the method to large scale biological models and the development of an easy to use package would have wide spread impact on the design of optimal experiments in biology. Finally, the generality of the method means that it could have further impact in other fields such as the other sciences and engineering. 
 
 ## Reproducibility
 
