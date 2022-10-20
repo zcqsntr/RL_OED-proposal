@@ -9,6 +9,10 @@ The field of optimal experimental design uses mathematical techniques to determi
 
 Here we propose to undertake a key future direction for this work; investigating the scale up to more complex models and more complex OED tasks such as simultaneous model discrimination and parameter inference, and this will be the main aim of the proposed project. The method has already been developed and demonstrated so the main focus of this would be engineering the RL up to a larger scale in the best way and demonstrating it effectiveness on a number of large scale biological models. A secondary goal would be to develop an easy to use python package so that the method can be cessable to non-experts and help increase the dissemination of machine leanring into the biological community. 
 
+Candidates for large scale models include:
+- the DREAM7 model of a genetic network of 9 genes and 45 parameters to be estimated. This has previously been used to validate OED approaches [here](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-014-0102-6)
+- 
+
 
 ## Introduction and Prior Work
 
