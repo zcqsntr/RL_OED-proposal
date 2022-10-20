@@ -47,7 +47,7 @@ The work could be released as a software package with the aim to make the implem
 
 ### Requirements
 
-What kinds of resources (e.g. GPU hours, RAM, storage) are needed to complete the project?
+We found in our previous work the average training time for the RT3D algorithm training on the chemostat system over a parameter distribution was 11.73 hours with standard 637 deviation 0.91 hours over 20 total training runs on a computing cluster with 40 CPU cores and a GeForce GTX 1080 Ti. It is hard to say how the method will scale, but access to serveral high performance GPUs for the duration of the project should be sufficient. 
 
 ### Timeline
 
