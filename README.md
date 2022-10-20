@@ -54,12 +54,12 @@ As the effectiveness of the method has already been demonstrated. The failure ca
 
 ## Preliminary Findings
 
-We have written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract), currently on bioArxiv, in review at PLOS computational biology which demonstrates the effectiveness of the method on simple models. 
+We have written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491138v1.abstract), currently on bioArxiv and in review at PLOS computational biology which demonstrates the effectiveness of the method on simple models. 
 
 
 ## Next Steps
 
-If the project is successfully completed, are there any obvious next steps?
+Expand the project into models other areas of science and engineering. There is also the possibility to remove the restriction to models described by PDEs. Furthermore, we could look into different experimental optimality metrics.
 
 ## Known contributors
 
