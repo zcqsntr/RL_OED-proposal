@@ -53,7 +53,7 @@ Using reinforcement leaning for optimal experimental design has compelling advan
 
 ## Reproducibility
 
-All code can be published publicly on GitHub, with working examples to run on various models. 
+All code can be published publicly on GitHub, with working examples to run on various models. Trained models could also be published. 
 
 ## Failure Case
 
