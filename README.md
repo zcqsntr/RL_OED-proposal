@@ -11,6 +11,7 @@ Here we propose to undertake a key future direction for this work; investigating
 
 Candidates for large scale models include:
 - the DREAM7 model of a genetic network of 9 genes and 45 parameters to be estimated. This has previously been used to validate OED approaches [here](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-014-0102-6)
+- [the model of the JAK-STAT signalling pathway](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-30), this has also been used in experimental design [work](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003650)
 - 
 
 
