@@ -12,7 +12,7 @@ Here we propose to undertake a key future direction for this work; investigating
 Candidates for large scale models include:
 - The genearlised Lotka Volterra model of microbiome interactions, which has applications for e.g. [understanding the gut microbiome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003388). 
 - the DREAM7 model of a genetic network of 9 genes and 45 parameters to be estimated. This has previously been used to validate OED approaches [here](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-014-0102-6)
-- the model of the [JAK-STAT](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-30) signalling pathway, this has also been used in experimental design [work](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003650). [or other signalling cascade models](https://academic.oup.com/bioinformatics/article/28/23/3089/194080)
+- the model of the [JAK-STAT](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-30) signalling pathway, this has also been used in experimental design [work](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003650). [Or other signalling cascade models](https://academic.oup.com/bioinformatics/article/28/23/3089/194080)
 - [The Multifate-3 synthetic cell circuit design model.](https://www.biorxiv.org/content/10.1101/2021.02.10.430659v1.full.pdf)
 
 
