@@ -1,7 +1,5 @@
 # Deep Reinforcement Learning for Optimal Experimental Design in Biology
 
-A proposal by Neythen Treloar etc.
-
 ## Abstract
 
 
@@ -76,7 +74,3 @@ We have written a [paper](https://www.biorxiv.org/content/10.1101/2022.05.09.491
 ## Next Steps
 
 Expand the project into models other areas of science and engineering. There is also the possibility to remove the restriction to models described by PDEs. Furthermore, we could look into different experimental optimality metrics.
-
-## Known contributors
-
-Neythen Treloar, Postdoctoral Research Fellow, University College London
