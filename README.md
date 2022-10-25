@@ -62,8 +62,6 @@ All code can be published publicly on GitHub, with working examples to run on va
 
 ## Failure Case
 
-If our findings are unsatisfactory, do we have an exit plan? Do we have deliverables along the way that we can still provide the community with?
-
 As the effectiveness of the method has already been demonstrated. The failure case now is that the training time becomes prohibitive to use it on models that are relevant to the user with the hardware that they have available. We can still demonstrate the method and show that using the hardware we have available we can perform OED on complex biological models. The community can use it for models of a scale that their hardware would allow. 
 
 ## Preliminary Findings
